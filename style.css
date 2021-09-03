@@ -1,0 +1,30 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_button{
+    display: none;
+    margin-top:20px ;
+    margin-bottom: 20px;
+}
+
+input{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#div_with_commas{
+    background-color: green;
+    border:  1px solid greenyellow;
+    padding: 10px;
+    width: 50%;
+}
+
+#div_without_commas{
+    background-color: red;
+    border:  1px solid crimson;
+    padding: 10px;
+    width: 50%;
+}
